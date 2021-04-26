@@ -27,7 +27,6 @@ void draw() {
   
   if (enabled) 
    shader(tear_drop);
-  
 }
 
 void mousePressed() {
